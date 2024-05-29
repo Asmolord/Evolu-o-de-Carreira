@@ -9,7 +9,7 @@
 * Métodos de strings
 * Métodos de arrays
 
-## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
+# O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 * Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
 * LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
