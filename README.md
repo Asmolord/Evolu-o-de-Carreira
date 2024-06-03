@@ -3,16 +3,16 @@
 # Conteúdos a serem trabalhados nesse módulo:
 
 * Soft skills
-* LinkedIn
+* Performance e otimização
 * Ética em tecnologia
-* Gestão de Tempo
+* Versionamento de código
 * Métodos de strings
 * Métodos de arrays
 
 # O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 * Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-* LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
+*  Otimizar o desempenho de um site ou aplicativo da web é essencial para fornecer uma boa experiência ao usuário. Isso inclui técnicas de otimização de carregamento de página, compactação de recursos e minificação de código.
 * Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
 * Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
 * Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
